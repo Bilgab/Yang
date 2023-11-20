@@ -1,0 +1,19 @@
+Monster
+    Choomahs
+    Bumble Brutus
+    Cecil
+    Norton
+    King laranox
+    Clarance
+
+Spelare
+    Lez 
+    Sassy
+Companioner
+    Lez (om du väljer Sassy)
+    Sassy (om du väljer Lez)
+    Donny
+    Wayno
+    Scruffy
+    Owly
+    
